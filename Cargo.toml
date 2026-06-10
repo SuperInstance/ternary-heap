@@ -1,4 +1,6 @@
 [package]
+description = "ternary-heap - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/ternary-heap"
 name = "ternary-heap"
 version = "0.1.0"
 edition = "2021"
